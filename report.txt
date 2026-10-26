@@ -1,0 +1,9 @@
+
+Sales Summary Report
+
+Start Date : 2026-01-01
+End Date   : 2026-02-02
+
+Total Records : 17
+
+Total Sales : 238200
